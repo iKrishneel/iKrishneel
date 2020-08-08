@@ -1,6 +1,9 @@
-### Hey 👋🏽, I'm Krishneel
+### Hey 👋🏽, I'm Krishneel 
+<code><img height="20" src="https://static.dwcdn.net/css/flag-icons/flags/4x3/fj.svg"></code>
+<code><img height="20" src="https://static.dwcdn.net/css/flag-icons/flags/4x3/jp.svg"></code>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iKrishneel.iKrishneel)
+
 
 <br/>
 <a href="https://hub.docker.com/u/krishneel">
@@ -19,3 +22,4 @@
   <img align="left" alt="Krishneel's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 <br/>
+
