@@ -1,25 +1,12 @@
-### Hey 👋🏽, I'm Krishneel 
-<code><img height="20" src="https://static.dwcdn.net/css/flag-icons/flags/4x3/fj.svg"></code>
-<code><img height="20" src="https://static.dwcdn.net/css/flag-icons/flags/4x3/jp.svg"></code>
+### It's Krishneel :fiji: :jp: 
 
-![](https://visitor-badge.glitch.me/badge?page_id=iKrishneel.iKrishneel)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=iKrishneel.iKrishneel) -->
 
-
-<br/>
-<a href="https://hub.docker.com/u/krishneel">
-  <img align="left" alt="Krishneel's Docker Hub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iKrishneel&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://travis-ci.com/">
-  <img align="left" alt="Krishneel's Travis Ci" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKrishneel&count_private=true&show_icons=true&theme=radical&exclude_repo=rpn_svm_detector,mrcnn_mask,emacs.d" />
 </a>
-<a href="https://github.com/iKrishneel">
-  <img align="left" alt="Krishneel's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ikrishneel/">
-  <img align="left" alt="Krishneels's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://scholar.google.com/citations?hl=en&user=tPZ59uIAAAAJ">
-  <img align="left" alt="Krishneel's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
-</a>
-<br/>
-
